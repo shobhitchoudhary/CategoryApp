@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CategoriesApp</string>
+    <string name="categories">Categories</string>
+    <string name="error_message">Something went worng</string>
+</resources>
